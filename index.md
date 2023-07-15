@@ -26,8 +26,6 @@ Hello, my name is Dilru Kumarathunga and I am a undergraduate student👩🏽‍
 
 ## Languages and Tools
 
-### Languages:
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;&nbsp;
 ![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;&nbsp;
 
