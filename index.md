@@ -28,7 +28,7 @@ Hello, my name is Dilru Kumarathunga and I am a undergraduate student👩🏽‍
 
 <br/>
 
-## Languages and Tools
+## Languages and Tools🛠
 
 <p class="spc">&nbsp;</p>
 ### Languages
