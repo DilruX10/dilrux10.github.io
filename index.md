@@ -87,10 +87,9 @@ Hello, my name is Dilru Kumarathunga and I am a undergraduate student👩🏽‍
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)&nbsp;&nbsp;
 
 <br/>
+<br/>
 
 ***
-
-<br/>
 
 <center>
     Made With <br/>
