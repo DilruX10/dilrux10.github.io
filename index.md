@@ -11,7 +11,7 @@ h1 {
 }
 </style>
 
-## Hi there 👋, I am [Dilru]()! 😁
+## Hi there 👋, I am [Dilru]()! 😄
 
 Hello, my name is Dilru Kumarathunga and I am a undergraduate student👩🏽‍🎓 at [Sri Lanka Institute of Information Technology](https://www.sliit.lk/) majoring in Software Engineering. My tech stack involves Java/J2EE, Springboot, SQL, Javascript and Python. I have interest in Design Patterns, Data Structures and Algorithms. Besides programming, I have an immense interest in books and movies.
 
@@ -93,9 +93,8 @@ Hello, my name is Dilru Kumarathunga and I am a undergraduate student👩🏽‍
 <br/>
 
 <center>
-    <p id="footer"> 
-        Made with <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Github Pages">
-    </p>
+    Made With <br/>
+    <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Github Pages">
 </center>
 
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
