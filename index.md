@@ -9,7 +9,7 @@ Hello, my name is Dilru Kumarathunga and I am a undergraduate student👩🏽‍
 - 🔭 I’m currently studying Database System and UI/UX Engineering
 - 🌱 I’m currently learning React Native, NestJS & PostgreSQL
 
-## Languages and Tools
+### Languages and Tools
 
 #### Languages
 
