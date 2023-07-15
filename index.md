@@ -1,6 +1,3 @@
----
-title: [On Progress] DilruX10 - Personal Portfolio<
----
 <style>
 h1 {
     display: none;
