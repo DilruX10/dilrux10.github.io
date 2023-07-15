@@ -5,6 +5,10 @@ title-heading: FALSE
 h1 {
     display: none;
 }
+
+#hi-there--i-am-dilru- {
+    font-size: 75px;
+}
 </style>
 
 ## Hi there 👋, I am [Dilru]()! 😁
