@@ -16,12 +16,18 @@ h1 {
 Hello, my name is Dilru Kumarathunga and I am a undergraduate student👩🏽‍🎓 at [Sri Lanka Institute of Information Technology](https://www.sliit.lk/) majoring in Software Engineering. My tech stack involves Java/J2EE, Springboot, SQL, Javascript and Python. I have interest in Design Patterns, Data Structures and Algorithms. Besides programming, I have an immense interest in books and movies.
 
 - 🔭 I’m currently studying Database System and UI/UX Engineering
-- 🌱 I’m currently learning React Native, NestJS & PostgreSQL
-- 💻 Visit my [Github Portfolio](https://github.com/DilruX10)
   
-### Languages and Tools
+- 🌱 I’m currently learning <br/><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;&nbsp; ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;&nbsp; ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;&nbsp;
+  
+- 💻 Visit my [Github Portfolio](https://github.com/DilruX10)
+<br/><br/>
 
-#### Languages
+*** 
+#### &nbsp;
+## Languages and Tools
+
+### Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;&nbsp;
 ![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;&nbsp;
@@ -37,23 +43,22 @@ Hello, my name is Dilru Kumarathunga and I am a undergraduate student👩🏽‍
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;&nbsp;
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;&nbsp;
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)&nbsp;&nbsp;
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo)&nbsp;&nbsp;
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
 
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)&nbsp;&nbsp;
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;&nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;
 
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=appveyor)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=appveyor)&nbsp;&nbsp;
-
-#### Currently Learning
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;&nbsp;
 
 #### Academic
 
@@ -65,6 +70,7 @@ Hello, my name is Dilru Kumarathunga and I am a undergraduate student👩🏽‍
 
 #### OS
 
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)&nbsp;&nbsp;
 
 #### Tools
@@ -75,9 +81,11 @@ Hello, my name is Dilru Kumarathunga and I am a undergraduate student👩🏽‍
 ![Allacritty](https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white)&nbsp;&nbsp;
 
 ![RepelIt](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)&nbsp;&nbsp;
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)&nbsp;&nbsp;
-![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)&nbsp;&nbsp;
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)&nbsp;&nbsp;
+![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)&nbsp;&nbsp;
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)&nbsp;&nbsp;
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)&nbsp;&nbsp;
 
+Made with ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
