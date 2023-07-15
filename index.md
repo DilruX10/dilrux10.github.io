@@ -7,7 +7,7 @@ h1 {
 }
 
 #hi-there--i-am-dilru- {
-    font-size: 75px;
+    font-size: 50px;
 }
 </style>
 
@@ -17,7 +17,8 @@ Hello, my name is Dilru Kumarathunga and I am a undergraduate student👩🏽‍
 
 - 🔭 I’m currently studying Database System and UI/UX Engineering
 - 🌱 I’m currently learning React Native, NestJS & PostgreSQL
-
+- 💻 Visit my [Github Portfolio](https://github.com/DilruX10)
+  
 ### Languages and Tools
 
 #### Languages
@@ -77,5 +78,6 @@ Hello, my name is Dilru Kumarathunga and I am a undergraduate student👩🏽‍
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)&nbsp;&nbsp;
 ![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)&nbsp;&nbsp;
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)&nbsp;&nbsp;
+
 
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
