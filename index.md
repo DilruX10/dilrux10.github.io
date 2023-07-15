@@ -22,7 +22,7 @@ Hello, my name is Dilru Kumarathunga and I am a undergraduate student👩🏽‍
   
 - 💻 Visit my [Github Portfolio](https://github.com/DilruX10)
 
-<br/><br/>
+<br/>
 
 ## Languages and Tools
 
@@ -91,6 +91,8 @@ Hello, my name is Dilru Kumarathunga and I am a undergraduate student👩🏽‍
 
 <br/>
 
-<p> Made with <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Github Pages"> </p>
+<center><div>
+    <p> Made with <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Github Pages"></p>
+</div></center>
 
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
