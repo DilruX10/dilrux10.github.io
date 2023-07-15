@@ -21,10 +21,9 @@ Hello, my name is Dilru Kumarathunga and I am a undergraduate student👩🏽‍
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;&nbsp; ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;&nbsp; ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;&nbsp;
   
 - 💻 Visit my [Github Portfolio](https://github.com/DilruX10)
+
 <br/><br/>
 
-*** 
-#### &nbsp;
 ## Languages and Tools
 
 ### Languages
@@ -86,6 +85,12 @@ Hello, my name is Dilru Kumarathunga and I am a undergraduate student👩🏽‍
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)&nbsp;&nbsp;
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)&nbsp;&nbsp;
 
-Made with ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+<br/>
+
+***
+
+<br/>
+
+<p> Made with <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Github Pages"> </p>
 
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
