@@ -1,5 +1,6 @@
 ---
 title-heading: false
+theme: minima
 ---
 
 # Hi there 👋, I am [Dilru]()! 😁
