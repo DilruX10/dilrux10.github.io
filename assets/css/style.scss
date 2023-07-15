@@ -1,8 +1,11 @@
 ---
 ---
 
-@import "{{ site.primer }}";
-
 header {
+  display: none;
+}
+
+
+h1 {
   display: none;
 }
