@@ -1,6 +1,11 @@
 ---
 title-heading: FALSE
 ---
+<style>
+h1 {
+    display: none;
+}
+</style>
 
 ## Hi there 👋, I am [Dilru]()! 😁
 
