@@ -9,6 +9,10 @@ h1 {
 #hi-there--i-am-dilru- {
     font-size: 50px;
 }
+
+p {
+    font-size: 10px;
+}
 </style>
 
 ## Hi there 👋, I am [Dilru]()! 😄
@@ -26,6 +30,7 @@ Hello, my name is Dilru Kumarathunga and I am a undergraduate student👩🏽‍
 
 ## Languages and Tools
 
+<p>&nbsp;</p>
 ### Languages:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;
@@ -36,6 +41,7 @@ Hello, my name is Dilru Kumarathunga and I am a undergraduate student👩🏽‍
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;&nbsp;
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;&nbsp;
 
+<p>&nbsp;</p>
 ### Web Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;
@@ -56,6 +62,7 @@ Hello, my name is Dilru Kumarathunga and I am a undergraduate student👩🏽‍
 
 ![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;&nbsp;
 
+<p>&nbsp;</p>
 ### Databases:
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;&nbsp;
@@ -65,15 +72,18 @@ Hello, my name is Dilru Kumarathunga and I am a undergraduate student👩🏽‍
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;&nbsp;
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
+<p>&nbsp;</p>
 ### Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=appveyor)&nbsp;&nbsp;
 
+<p>&nbsp;</p>
 ### OS:
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)&nbsp;&nbsp;
 
+<p>&nbsp;</p>
 ### Tools:
 
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)&nbsp;&nbsp;
