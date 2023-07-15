@@ -1,7 +1,6 @@
 ---
-title-heading: FALSE
+title: [On Progress] DilruX10 - Personal Portfolio<
 ---
-<title>[On Progress] DilruX10 - Personal Portfolio</title>
 <style>
 h1 {
     display: none;
