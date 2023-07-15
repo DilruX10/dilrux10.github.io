@@ -91,8 +91,8 @@ Hello, my name is Dilru Kumarathunga and I am a undergraduate student👩🏽‍
 
 <br/>
 
-<center><div>
+<center>
     <p> Made with <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Github Pages"></p>
-</div></center>
+</center>
 
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
