@@ -1,5 +1,7 @@
 # <a href="https://dilrux10.github.io/" target="_blank">My Portfolio Website</a>
 
+![Portfolio Website](https://github.com/DilruX10/dilrux10.github.io/blob/master/My-Portfolio-Website.jpg)
+
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/DilruX10/dilrux10.github.io/)
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://dilrux10.github.io)
 [![Author](https://img.shields.io/badge/Author-Dilru%20Kumarathunga-blue.svg)](https://dilrux10.github.io/)
